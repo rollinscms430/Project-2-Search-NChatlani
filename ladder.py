@@ -1,4 +1,5 @@
-# NChatlani - Python Script to create a word ladder from 'brains' to 'snakes'
+# NChatlani and JContino
+# Python Script to create a word ladder from 'brains' to 'snakes'
 
 from copy import deepcopy
 
